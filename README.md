@@ -3,7 +3,7 @@
 A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
-[Play Here](https://akhilesh-rock-paper-scissors.netlify.app/)
+https://akhilesh-rock-paper-scissors.netlify.app/
 
 ## 📸 Preview
 ![Project Preview](rock-paper-scissors-preview.png)
